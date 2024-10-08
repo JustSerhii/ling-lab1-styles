@@ -1,0 +1,466 @@
+Corporate governance is the system by which organisations are directed and controlled. It encompasses the relationship between the board of directors, shareholders and other stakeholders, and the effects on corporate strategy and performance. Corporate governance is important because it looks at how these decision makers act, how they can or should be monitored, and how they can be held to account for their decisions and actions.
+
+The published audited financial statements and related information are therefore of key importance. They will usually be the main information set to which shareholders and other stakeholders have access and this is why having credible financial statements supported by the auditor’s opinion is crucial.
+
+Many regulatory authorities, including the UK, use a code of best practice, often termed a ‘comply or explain’ approach to corporate governance. Under this approach the regulatory authority issues a set of principles with which company directors of listed companies are expected to comply. In many jurisdictions disclosures are required in the financial statements to demonstrate compliance. Non-compliance is not expected, but in its event, the facts of the non-compliance must be clearly disclosed and explained.
+
+In some jurisdictions, such as the US, a more prescriptive approach is used, whereby corporate governance requirements are set by legislation. Both the principles and the legislative approaches are broadly similar in the matters they address. They both deal with the importance of the board of directors having a balanced structure, emphasising the need for non-executive directors, and for robust procedures in relation to the appointment of board members, and their remuneration. They both describe the merits of audit committees and the need to monitor the effectiveness of internal controls. They both demand disclosure about these and other matters in the annual report.
+
+For audits to be effective and maintain public trust, they must be performed in a way that ensures firms and their personnel fulfil their responsibilities in accordance with applicable legal and professional standards. It is imperative that audit firms adopt a culture of best practice in accordance with these standards, enabling audit partners in issuing appropriate auditor’s reports. The threats of self interest caused by increasing financial pressure on audit partners will compromise auditor reports, as will the issues of poor planning, inadequate risk assessment and lack of resources and audit evidence. The International Auditing and Assurance Standards Board (IAASB) issues quality standards to support firms in achieving this aim.
+
+The current standards in this area are International Standard on Quality Management (ISQM) 1, Quality Management for Firms that Perform Audits or Reviews of Financial Statements and ISQM 2, Engagement Quality Reviews, alongside ISA 220 (Revised), Quality Management for an Audit of Financial Statements.
+
+These standards are examinable in Advanced Audit and Assurance (AAA) and candidates are expected to be able to demonstrate an understanding and application of the key principles. Quality management is pervasive to the performance of audits and so it is also pervasive to the AAA exam with aspects potentially arising multiple times within a single exam.
+
+This article focuses on ISQM 1; a second article will look at ISQM 2 and ISA 220 (Revised). There are examples provided demonstrating how certain aspects of quality management may be examined. These are intended to indicate potential ways candidates may encounter questions on quality, however, these are illustrative examples only and should not be considered comprehensive; alternative examples and aspects are also examinable.
+
+Key principles underlying the quality standards
+The quality standards are focused on public interest, with the hope of addressing some of the circumstances where audit failure has occurred. The need for audit partners and audit teams to exhibit professional scepticism, with an independent and challenging mindset, is emphasised. This is especially important when assessing client judgements and estimations. Audit teams need to have the competence and support to do this without fearing negative implications. The quality standards adopt a proactive attitude to quality in firms rather than a compliance (‘tick box’) approach and one which is scalable from small firms to large multinational networks.
+
+There is a need to ensure audit quality evolves; there must be scope within quality guidance for a firm’s processes to change as technology and business practices change.
+
+There is also focus on improving both internal and external monitoring of firms and their networks and on improving communication, both internally and to external parties such as those charged with governance (TCWG) and regulators.
+
+ISQM 1, Quality Management for Firms that Perform Audits or Reviews of Financial Statements, or Other Assurance or Related Services Engagements
+ISQM 1 embeds this approach through a principle driven requirement for firms to create a system of quality management (SoQM) which is tailored to the firm and its client base. This scalability enables firms to design a system which addresses their specific circumstances and risks.
+
+The SoQM must address eight components
+1. Firm’s risk assessment process
+Firms must design and implement a risk assessment process that sets quality objectives and identifies risks. The firm’s specific situation and environment is considered and will include the technologies employed by the firm, their networks, and any external service providers. This is an ongoing monitoring process rather than one-off, enabling the SoQM to adapt with any changes.
+
+This approach will allow the firm to tailor to address the specific risks within their firm, and it will vary according to the size of the audit firm and their client portfolio.
+
+By maintaining this tailored focus on risks and their mitigation, the firm should be able to focus on ensuring the right engagement or audit report is issued for each assignment. This may be due to more competent and well-trained individuals performing complex or risky audits, audit partners feeling more empowered to issue modified audit reports, by ensuring acceptance procedures fully identify threats to independence and ensure safeguards are enacted and many other factors. The most crucial point is that this approach is tailored to address the specific risks arising in specific firms and not expected to be the same for every audit firm regardless of size or client portfolio.
+
+The Universal Windows Platform (UWP) is the modern programming interface for Windows. With UWP you write an application or component once and deploy it on any Windows 10 or later device. You can write a component in C++ and applications written in any other UWP-compatible language can use it.
+
+Most of the UWP documentation is in the Windows content tree at Universal Windows Platform documentation. There you will find beginning tutorials as well as reference documentation.
+
+For new UWP apps and components, we recommend that you use C++/WinRT, a new standard C++17 language projection for Windows Runtime APIs. C++/WinRT is available in the Windows SDK from version 1803 (10.0.17134.0) onward. C++/WinRT is implemented entirely in header files, and is designed to provide you with first-class access to the modern Windows API. Unlike the C++/CX implementation, C++/WinRT doesn't use non-standard syntax or Microsoft language extensions, and it takes full advantage of the C++ compiler to create highly-optimized output. For more information, see Introduction to C++/WinRT.
+
+One common caveat about Python is that it’s slow. Objectively, it’s true. Python programs generally run much more slowly than corresponding programs in C/C++ or Java. Some Python programs will be slower by an order of magnitude or more.
+
+Why so slow? It isn’t just because most Python runtimes are interpreters rather than compilers. It is also due to the fact that the inherent dynamism and the malleability of objects in Python make it difficult to optimize the language for speed, even when it is compiled. That said, Python’s speed may not be as much of an issue as it seems, and there are ways to alleviate it.
+
+Python performance optimizations
+A slow Python program isn’t necessarily fated to be forever slow. Many Python programs are slow because they don’t properly use the functionality in Python or its standard library. Novice Python programmers often write Python as if it were C or Java, and leave potential performance optimizations unexplored. An an example, you can speed up math and statistics operations dramatically by using libraries such as NumPy and Pandas.
+
+A common adage of software development is that 90 percent of the activity for a program tends to be in 10 percent of the code, so optimizing that 10 percent can yield major improvements. With Python, you can selectively convert that 10 percent to C or even assembly, using projects like Cython or Numba. The result is often a program that runs within striking distance of a counterpart written entirely in C, but without being cluttered with C’s memory-micromanagement details.
+
+Finally, alternative Python runtimes have speed optimizations that the stock CPython runtime lacks. PyPy, for instance, is a just-in-time (JIT) Python compiler that converts Python to native machine code on the fly. PyPy can provide orders-of-magnitude speedups for many common operations.
+
+Ongoing Python performance improvements
+The core developers for CPython, the default Python implementation, have historically favored keeping the implementation simple over trying to make elaborate performance improvements. But over time, there’s been a greater push to make Python perform better, and those efforts are now paying off.
+
+For instance, the bytecode generated by CPython from a program’s source code can be analyzed at runtime and “specialized.” If a given process consistently involves the same type, that operation can be optimized for that type. Many more optimizations like this are in the offing.
+
+Another major project, still in its infancy, is removing CPython’s Global Interpreter Lock (GIL), a thread-synchronization mechanism that’s kept Python threads from being properly concurrent. Removing the GIL is a complex project, since one of the requirements imposed is that it can’t make single-threaded programs slower. But a new implementation of the idea is now in testing, and shows great promise. It’s set to be phased in over the next few versions of Python.
+
+Developer time often trumps machine time
+For many tasks in Python, the speed of development beats the speed of execution.
+
+A given Python program might take six seconds to execute versus a fraction of a second in another language. But it might take only 10 minutes for a developer to put that Python program together, versus an hour or more of development time in another language. The amount of time lost in the execution of the Python program is more than gained back by the time saved in the development process.
+
+Obviously, this is less true when you’re writing software that has high-throughput, high-concurrency demands, such as a trading application or a database. But for many real-world applications, in domains ranging from systems management to machine learning, Python will prove to be fast enough.
+
+Plus, the flexibility and pace of development that Python enables may allow for innovation that would be more difficult and time-consuming to achieve in other languages. And the language’s development team has an eye turned toward making everything faster with time.
+
+When speed of development and programmer comfort are more important than shaving a few seconds off the machine clock, Python may well be the best tool for the job.
+
+A car engine is a complex machine built to convert fuel into mechanical energy through a series of controlled explosions, or combustions, in the cylinders. These explosions drive the pistons, which in turn rotate the crankshaft, generating the rotary motion that powers the wheels of the car.
+
+An internal combustion engine is commonly found in cars and is made up of several key parts, including cylinders, pistons, crankshaft, and camshaft. The engine is composed of two main parts: the cylinder block and the cylinder head.
+
+The cylinder block is the lower, heavier section of the engine and acts as a casing for the main moving parts. The cylinder head is a detachable upper cover that contains valve-controlled passages through which the air and fuel mixture enters the cylinders and others through which the gases produced by combustion are expelled.
+
+The cylinder block also houses the crankshaft, which converts the reciprocating motion of the pistons into rotary motion at the crankshaft. This rotary motion is then used to turn the wheels of the car. The cylinder block also often houses the camshaft, which operates mechanisms that open and close the valves in the cylinder head. In some cases, the camshaft is located in the head or mounted above it.
+
+There are two main types of car engines: the gasoline engine and the diesel engine. Gasoline engines use a spark to ignite a mixture of fuel and air, while diesel engines rely on compression to heat the air and ignite the fuel. Both types of engines have their own set of advantages and disadvantages, but both are designed to convert fuel into energy that can be used to power a car.
+
+Car engines have come a long way in recent years, with advancements in technology leading to more efficient and powerful engines. Electric and hybrid engines are becoming increasingly popular, as they offer improved fuel economy and lower emissions.
+
+How Does An Engine Work In a Car?
+Specifically, an internal combustion engine is a heat engine in that it converts energy from the heat of burning gasoline into mechanical work, or torque. That torque is applied to the wheels to make the car move.
+
+The engine consists of a fixed cylinder and a moving piston. The expanding combustion gases push the piston, which in turn rotates the crankshaft. Ultimately, through a system of gears in the powertrain, this motion drives the vehicle’s wheels.
+
+Two types of internal combustion engines are currently manufactured: the spark-ignition gasoline engine and the compression-ignition diesel engine. Most of these are four-stroke engines, meaning it takes four piston strokes to complete a cycle. The cycle includes four distinct processes: intake, compression, combustion and power stroke, and exhaust.
+
+The basic components of a car engine include cylinders, pistons, and valves. The cylinders are the hollow chambers where the combustion process takes place. The pistons are the cylindrical parts that move up and down inside the cylinders, and the valves control the flow of air and fuel into the cylinders, as well as the exhaust gases out of the cylinders.
+
+The combustion process in a car engine starts with the intake of air and fuel into the cylinders. The air and fuel are mixed together in a precise ratio, and then they are compressed by the pistons. Next, a spark is created by the spark plugs, which ignite the mixture, causing it to combust.
+
+The combustion process creates a high-pressure force that pushes the pistons down, which in turn rotates the crankshaft. The crankshaft is connected to the car’s transmission, which sends the power to the wheels to move the vehicle.
+
+As the pistons move up and down, the valves open and close to allow the air and fuel in, and the exhaust gases out. The exhaust gases then flow through the exhaust system and out of the car through the tailpipe.
+
+There are several different types of virtual reality, including fully immersive VR, where the user is completely immersed in a digital environment; semi-immersive VR, which offers a more limited immersive experience; and non-immersive VR, which uses a computer screen or projection system to display a 3D environment without the user being fully immersed.
+
+None-immersive virtual reality: None-immersive VR allows only a minimum of interaction with the digital environment. Classic examples are video games or a driving simulator in a driving school
+Semi-immersive virtual reality: In semi-immersive VR, digital components overlay real objects. The result is that these virtual elements can be used in a similar way to real objects. This makes semi-immersive VR ideal for educational purposes. Common examples are pilot training or the deepening of technical skills
+Immersive virtual reality: In a fully immersive virtual reality, users perceive only the virtual environment. There is no fixed point of reference to the real world during use. Currently, fully immersive VR technology is found primarily in the gaming industry. Special data glasses, gloves, treadmills or sensory detectors are used here. They all contribute to making the digital environment seem completely real. What is virtual reality and what is the real environment cannot be answered theoretically in such a setting
+Augmented reality: Augmented reality is also a form of virtual reality. The main difference between the two approaches is the way developers realize the overlap of both worlds. A well-known example of the use of AR are the so-called smart glasses.  For instance, with this tool, it is possible for employees to access real-time data in warehouses
+Mixed reality: Mixed reality combines the physical and virtual worlds. It is a special form of augmented reality, but is increasingly used in marketing. This technology makes it possible to visualize people or objects in a real context
+Components of virtual reality
+The components of virtual reality include the display or headset, which is responsible for presenting the virtual environment to the user, and the input devices, such as motion controllers, that allow the user to interact with the digital environment. Other important components include the tracking system, which detects the user’s movements and adjusts the virtual environment accordingly, and the computer system that runs the software and processes the sensory inputs.
+
+Headset: The VR headset is one of the most important wearables for users who want to immerse themselves in digital worlds. It replaces the natural field of view with a computer-generated field of view. To make that happen, the wearable integrates infrared LEDs, motion sensors, cameras and screens. They all enable the VR headset to gather relevant information and provide it for the human eye
+Screens and lenses: Both screens and lenses ensure that the VR experience is as real as possible. The basis for this is the distortion and overlapping of two nearly identical images. A minimal offset creates the desired spatial effect
+Latency: The field of view and latency provide important information in the real world. Both affect the perception of distance and spatial depth, both in the real and virtual environments. In general, humans can perceive an angle of 200 to 220 degrees. This visible range is in turn subdivided into the monocular and the binocular visual field. Generating these areas accordingly is a central task for modern VR headsets
+Frame rate: The human eye captures around 1,000 images per second. However, the interpretation rate of the information recorded by the optic nerve is significantly lower. Since central content can be lost if the frame rate is too fast, it is necessary to hit the so-called sweet spot. In VR, this is usually 90 FPS. This means the transmission is decidedly higher than a cinema film, but at the same time slower than everyday life in a big city
+Position tracking: As before, the transmitted images and sounds are among the most important elements of a successful VR experience. On the other hand, only position tracking in space is even more crucial. Particularly popular here are the so-called 6 degrees of freedom or 6DoF. With such position tracking, end users can move freely in space. In addition, common gestures such as nodding, up and down, forward and backward, but also movement in circular paths are possible. In contrast, the 3DoF only allows moving the head to the right, left, up and down
+
+One of the primary advantages of VR is its ability to create immersive experiences that can help individuals learn, practice, and explore in a safe and controlled environment. In the field of education, VR can be used to provide students with hands-on experiences that would otherwise be too difficult, expensive, or dangerous to replicate in real life. In a virtual reality simulator, specialists can pass on their knowledge in a targeted manner to less experienced colleagues. At the same time, they can train their own skills in the virtual environment. For this reason, the use of VR has already become established in the aircraft and machine industry sector. Additionally, VR can be used in the field of healthcare to simulate surgeries and train medical professionals
+Virtual reality makes it possible to hold meetings, training sessions or conferences in virtual rooms. This eliminates the need to travel to the respective locations. Time flexibility and location independence are the decisive factors here, making the technology all the more important
+Virtual reality supports the personalization of virtual experiences. Haptic and audio stimuli play a central role here. In the long term, VR should make it possible to tailor the user experience to the individual user. This would open up entirely new possibilities in the areas of marketing, entertainment and education
+VR could make collaboration in companies much easier. At the same time, employees from different locations would have the opportunity to meet directly in the digital space
+Branding and product realization are also much easier in Virtual reality. The reason for this is that projects can be implemented faster and more cost-effectively. At the same time, experts can participate in meetings from different locations
+Moreover, Virtual reality technology has the potential to transform the entertainment industry, creating immersive gaming experiences that allow players to become fully immersed in a virtual world
+
+It is clear that warming is occurring faster than expected, and that the world needs to pull an emergency brake on rising temperatures. China and the US, as global superpowers, could work together to drive change, and they recently held a high-level meeting to discuss opportunities for reducing greenhouse-gas (GHG) emissions. As these conversations continue ahead of the 2024 United Nations Climate Change Conference (COP29) and into 2025, they should focus on dealing with the climate crisis that has already arrived. To address it requires increased efforts to mitigate emissions of super pollutants, which are responsible for more than half of climate change.
+
+Super pollutants, specifically warming agents like methane, N2O, tropospheric ozone, and hydrofluorocarbons are tens, hundreds, or even thousands of times more potent than carbon dioxide per ton. Methane, for example, is a GHG that is roughly 80 times more potent than CO2 over a 20-year period and contributes to ozone smog. But it remains in the atmosphere for only around a decade, whereas CO2 can last centuries. This means that reducing methane emissions is the fastest and most effective way to fight climate change and improve air quality.
+
+Cleaner air is especially important for communities living or working near cattle farms, oil and gas infrastructure, landfills, and other pollution sources. Deteriorating air quality has become a pressing public-health problem, and reducing methane levels in the atmosphere would lower rates of death and asthma, and lessen the severity of wildfires, flooding, hurricanes, and other extreme weather events.
+
+In September, the Institute’s Standard
+Setting Department responded to the
+International Accounting Standards
+Board’s (IASB) request for information
+(RFI) on its Third Agenda Consultation.
+The RFI sought views on the strategic
+direction and balance of the IASB’s
+activities, the financial reporting issues it
+should prioritize and the criteria for adding
+projects to its work plan for 2022 to 2026.
+This article highlights our response to the
+RFI. The full response is available on our
+website.
+Strategic direction and balance of
+the IASB’s activities
+We consider that the IASB should leave
+its current level of focus for each main
+activity unchanged, given its resources
+will remain substantially unchanged
+from 2022 to 2026. In addition, we do not
+consider that the IASB should undertake
+any other activities within the current
+scope of its work.
+Criteria for assessing the priority
+of financial reporting issues
+We recommend that the IASB clarify
+how they prioritize a project if it interacts
+with other projects on the work plan. For
+example, does more interaction with other
+projects mean a higher or lower priority
+will be set? We suggest that the IASB
+should be cautious of repeatedly deferring
+important issues in financial reporting
+on the basis that the issue interacts with
+other projects, as this has the potential
+of resulting in significant issues being
+unaddressed for many years.
+Financial reporting issues that
+could be added to the IASB’s
+work plan
+Our outreach has identified four
+problematic accounting topics in Hong
+Kong: (i) commodity transactions,
+(ii) cryptocurrencies and related
+transactions, (iii) intangible assets, and
+(iv) variable and contingent consideration.
+We recommend three high priority
+projects to address issues in these
+areas. We understand the scope of any
+project that would be added to the IASB’s
+work plan is yet to be determined. As
+some of the three projects prioritized
+by us are related to each other, e.g.
+cryptocurrencies and intangible assets,
+we suggest that the IASB should seek
+synergies and consider where projects can
+be conducted in parallel.
+Develop a standard to set out
+accounting requirements for a range
+of non-financial tangible or intangible
+assets held solely for investment
+purposes
+We note commodity transactions, in
+particular commodity loans, are quite
+common in Hong Kong. Application
+questions are arising and diversity
+in practice is observed as no specific
+reporting standard governs such
+transactions. Hence there is a need to
+develop requirements for common types
+of commodity transactions, for example,
+commodity loans. Furthermore, it is worth
+setting out the range of non-financial
+tangible or intangible assets to which the
+proposed commodity loan requirements
+would apply.
+Given the increasing prevalence
+of cryptocurrency transactions, we
+believe there is a need for more robust
+accounting requirements that faithfully
+represent the underlying transactions.
+We believe that accounting for
+cryptocurrencies under International
+Accounting Standard (IAS)2 Inventories
+or IAS 38 Intangible Assets may not
+provide relevant information when
+these items are held for speculative or
+investment purposes. Alternatively, the
+IASB may consider amending the scope
+of International Financial Reporting
+Standard (IFRS) 9 Financial Instruments
+to include cryptocurrencies. However, as
+existing standards like IFRS 9 were not
+written to specifically address cryptorelated issues, such an application may
+only be a short-term fix.
+In light of the above, we consider that
+a standard that sets out accounting
+requirements for a range of non-financial
+tangible or intangible assets held solely
+for investment purposes is needed.
+
+Hong Kong Financial Reporting Standard
+(HKFRS) 9 Financial Instruments, which
+came into effect on 1 January 2018, is
+a new financial instruments accounting
+standard applicable to entities reporting
+under HKFRS. Replacing Hong Kong
+Accounting Standard (HKAS) 39 Financial
+Instruments: Recognition and Measurement,
+HKFRS 9 was issued with the aim to better
+align the accounting treatment of financial
+instruments with a company’s risk
+management activities, and provide more
+relevant and understandable information
+to users of financial statements.
+HKFRS 9 has been applied for over
+a year. During the year, the Institute’s
+Standard Setting Department (SSD)
+reached out to technical experts and
+auditors in accounting firms to understand
+the challenges arising from applying
+HKFRS 9. This article explains the main
+challenges encountered by corporates,
+specifically small- and medium-sized
+entities (SMEs) because of additional
+costs and expertise required in applying
+HKFRS 9. It also shares some practical
+tips on how to address those challenges.
+Measuring the fair value of
+unquoted equity instruments
+Accounting requirements
+Under HKAS 39, investments in equity
+instruments were primarily measured
+at fair value. However, the standard
+contained an exception from fair value
+measurement for investments in equity
+instruments that did not have a quoted
+price in an active market and whose fair
+value could not be determined reliably.
+Those equity investments were required
+to be measured at cost less impairment.
+Many SMEs in Hong Kong had been
+applying this exception because of
+difficulties in determining the fair value of
+their unquoted equity investments.
+HKFRS 9 removes this exception,
+making fair value measurement
+mandatory for all equity instruments. This
+is because fair value provides predictive
+value about the timing, amount and
+uncertainty of future cash flows and more
+relevant and useful information than
+cost measurement (HKFRS 9 paragraph
+BCE.66). In addition, the incremental
+benefit of fair value measurement
+generally outweighs the additional
+cost, particularly when the investments
+individually or aggregated are material to
+the financial performance and position of
+the entity.
+Application challenges
+In the absence of active markets for
+and readily available observable inputs
+for unquoted equity instruments, many
+entities find it challenging to measure
+such investments at fair value. Measuring
+the fair values of unquoted equity
+investments usually necessitates the use
+of unobservable inputs (i.e. level 3 inputs
+under HKFRS 13 Fair Value Measurement),
+which require entities to exercise
+judgement and incur significant cost (for
+example, in valuers’ fees). Entities may
+also find it difficult to get sufficient and
+timely information about the investee in
+order to perform a valuation when they are
+a minority shareholder.
+Practical tips
+(i) Guidance on doing a valuation
+To help entities address these challenges,
+the International Accounting Standards
+Board (IASB) issued educational material,
+which provides guidance on commonly
+used valuation techniques for determining
+the fair value of unquoted equity
+instruments. This material also includes
+examples illustrating how, even when an
+entity has limited financial information
+about its investee, the fair value of an
+unquoted equity instrument can still
+be measured by applying appropriate
+valuation techniques.
+
+The International Accounting Standards Board issued the IFRS for Small
+and Medium-sized Entities in 2009 in
+response to international demand for
+the IASB to develop global standards
+for small- and medium-sized entities. The Institute adopted the IFRS
+for SMEs in 2010 in the form of Hong
+Kong Financial Reporting Standards for
+Private Entities as a reporting option
+for private entities that have no public
+accountability.
+When the IFRS for SMEs was issued,
+the IASB stated that it planned to undertake an initial comprehensive review of
+the IFRS for SMEs after two years of use
+to consider whether there was a need
+for any amendments. Specifically, the
+IASB said it would consider whether to
+amend the IFRS for SMEs to address any
+implementation issues identified and
+also whether to consider any changes
+made to IFRS since the IFRS for SMEs
+was published.
+The IASB decided to commence its
+initial comprehensive review in 2012
+based on its view that sufficient jurisdictions had adopted the IFRS for SMEs
+to provide broad insight into the implementation experience. After considering the feedback it received during the
+initial comprehensive review, and taking into account the fact that the IFRS
+for SMEs is still a new standard, the
+IASB has made limited amendments
+to the IFRS for SMEs. The Institute has
+adopted those amendments in HKFRS
+for Private Entities.
+Amendments that could have a significant impact for private entities
+• Addition of an option to use the
+revaluation model for property, plant
+and equipment.
+• Replacing the modified text in section
+29 Income Tax of HKFRS for Private
+Entities with the revised section 29
+of the amendments to the IFRS for
+SMEs. As a result of this change,
+the recognition and measurement
+requirements for deferred income
+taxes of HKFRS for Private Entities,
+IFRS for SMEs and IAS 12 Income
+Taxes are now aligned.
+• Alignment of the main recognition
+and measurement requirements for
+exploration and evaluation assets
+with HKFRS 6 Exploration for and
+Evaluation of Mineral Resources.
+Amendments that add undue cost or
+effort exemptions and requirements
+Amendments that exempt an entity from
+the following requirements when application would cause undue cost or effort:
+• Measurement of investments in
+equity instruments at fair value.
+• Recognizing intangible assets of the
+acquiree separately in a business
+combination.
+• Offsetting income tax assets and
+liabilities.
+• Measuring the liability to pay a noncash distribution at the fair value of
+the non-cash assets to be distributed.
+The IASB has added clarifying guidance
+in section 2 to emphasize that an undue
+cost or effort exemption is not intended
+to be a low hurdle. An entity is required
+to carefully weigh the expected
+benefits of applying the exemption to
+the users of its financial statements
+against the cost or effort of complying
+with the related requirement.
+
+Whetting Your Appetite Python is an easy to learn, powerful programming language. It has efficient
+high-level data structures and a simple but effective approach to
+object-oriented programming. Python’s elegant syntax and dynamic typing,
+together with its interpreted nature, make it an ideal language for scripting
+and rapid application development in many areas on most platforms. The Python interpreter and the extensive standard library are freely available
+in source or binary form for all major platforms from the Python web site,https://www.python.org/, and may be freely distributed. The same site also
+contains distributions of and pointers to many free third party Python modules,
+programs and tools, and additional documentation. The Python interpreter is easily extended with new functions and data types
+implemented in C or C++ (or other languages callable from C). Python is also
+suitable as an extension language for customizable applications. This tutorial introduces the reader informally to the basic concepts and
+features of the Python language and system. It helps to have a Python
+interpreter handy for hands-on experience, but all examples are self-contained,
+so the tutorial can be read off-line as well. For a description of standard objects and modules, seeThe Python Standard Library.The Python Language Referencegives a more formal definition of the language.  To write
+extensions in C or C++, readExtending and Embedding the Python InterpreterandPython/C API Reference Manual. There are also several books covering Python in depth. This tutorial does not attempt to be comprehensive and cover every single
+feature, or even every commonly used feature. Instead, it introduces many of
+Python’s most noteworthy features, and will give you a good idea of the
+language’s flavor and style. After reading it, you will be able to read and
+write Python modules and programs, and you will be ready to learn more about the
+various Python library modules described inThe Python Standard Library.
+
+The Java programming language was developed by Sun Microsystems in the early 1990s. Although it is primarily used for Internet-based applications, Java is a simple, efficient, general-purpose language. Java was originally designed for embedded network applications running on multiple platforms. It is a portable, object-oriented, interpreted language.
+
+Java is extremely portable. The same Java application will run identically on any computer, regardless of hardware features or operating system, as long as it has a Java interpreter. Besides portability, another of Java's key advantages is its set of security features which protect a PC running a Java program not only from problems caused by erroneous code but also from malicious programs (such as viruses). You can safely run a Java applet downloaded from the Internet, because Java's security features prevent these types of applets from accessing a PC's hard drive or network connections. An applet is typically a small Java program that is embedded within an HTML page.
+
+Java can be considered both a compiled and an interpreted language because its source code is first compiled into a binary byte-code. This byte-code runs on the Java Virtual Machine (JVM), which is usually a software-based interpreter. The use of compiled byte-code allows the interpreter (the virtual machine) to be small and efficient (and nearly as fast as the CPU running native, compiled code). In addition, this byte-code gives Java its portability: it will run on any JVM that is correctly implemented, regardless of computer hardware or software configuration. Most Web browsers (such as Microsoft Internet Explorer or Netscape Communicator) contain a JVM to run Java applets.
+
+Compared to C++ (another object-oriented language), Java code runs a little slower (because of the JVM) but it is more portable and has much better security features. The virtual machine provides isolation between an untrusted Java program and the PC running the software. Java's syntax is similar to C++ but the languages are quite different. For example, Java does not permit programmers to implement operator overloading while C++ does. In addition, Java is a dynamic language where you can safely modify a program while it is running, whereas C++ does not allow it. This is especially important for network applications that cannot afford any downtime. Also, all basic Java data types are predefined and not platform-dependent, whereas some data types can change with the platform used in C or C++ (such as the int type).
+
+Java programs are more highly structured than C++ equivalents. All functions (or Java methods) and executable statements in Java must reside within a class while C++ allows function definitions and lines of code to exist outside of classes (as in C-style programs). Global data and methods cannot reside outside of a class in Java, whereas C++ allows this. These restrictions, though cumbersome at times, help maintain the integrity and security of Java programs and forces them to be totally object-oriented.
+
+Another key feature of Java is that it is an open standard with publicly available source code. Sun Microsystems controls the Java language and its related products but Sun's liberal license policy contributed to the Internet community embracing Java as a standard. You can freely download all the tools you need to develop and run Java applets and applications from Sun's Java Web site (http://java.sun.com).
+
+Open Science (OS) encourages research accessibility, openness, reusability and reproducibility, which are all vital for the growth of the scientific community worldwide. Open data, in general, and remote sensing/geospatial data, in particular, offer significant economic and societal benefits that can be of great contribution to achieving the African Agenda 2063. This article focuses on examining the importance and contribution of OS and Geoinformatics to accomplish the African Agenda 2063 and Sustainable Development Goals (SDGs) in Africa, and how OS principles can enhance accessibility, collaboration, reproducibility, and innovation in geosciences. It also explores the potential of artificial intelligence on augmenting OS and Geoinformatics and proposes solutions to address the implementation challenges. It also evaluates the relationships, international financing, and cooperative efforts required to fully realize the potential of open research and geoinformatics in Africa compared to developed countries.
+
+The results revealed that the promotion of OS aims to make geospatial data and tools more accessible to researchers and policymakers, addressing critical challenges such as climate change and crisis management. The results highlighted the importance of international collaboration through the African Open Science Platform. By presenting a comprehensive framework and an action plan, this study offers a roadmap for African governments to leverage OS and Geoinformatics to advance Agenda-2063 and the SDGs, bridging the gap between theoretical knowledge and practical application.
+
+X-ray photoelectron spectroscopy (XPS) is one of the most powerful techniques for surface chemical analysis. Technologically, surface, and interface properties are crucial for the fabrication and performance of a wide range of advanced materials such as ceramics, composites, alloys, polymers, superconductors, diamond-like thin films, biomaterials, and nanomaterials as well as for semiconductor devices, optoelectronic materials, high-density magnetic-storage media, sensors, thin films, and coatings. In a typical XPS study, a specimen is irradiated with near-monochromatic X-rays and emitted photoelectrons and Auger electrons are detected with an electron energy analyzer (Jablonski et al., 2020). Measurements are made of core-electron binding energies and, for some applications, of Auger-electron kinetic energies. Elements (except for H and He) and their chemical states can be identified from the measured electron energies and of small shifts in these energies for elements in different chemical states. The information depth for XPS measurements is generally between 0.5 nm and 5 nm, depending on the sample material and the measurement conditions (Powell, 2020). Over 200,000 papers with XPS results have been published during the past 30 years.
+
+The XPS Database, specifically SRD 20, is one of NIST’s scientific and technical Standard Reference Databases (SRDs) which contain data that have been critically evaluated by experts in the relevant fields (Kaiser et al., 2018). The SRD 20 consists of over 33,000 records containing data for different parameters that are useful for interpreting XPS spectra. The original online version was created in 2000. We have recently developed a new version of SRD 20 with the latest web development technologies, and to address issues related to NIST security requirements and to incorporate new features.
+
+In this paper, we report on the newly implemented NIST XPS Application (app). We first describe the design and show example screens of its features. Finally, we discuss the challenges we encountered and how they were overcome.
+
+With the growth of AI and data modelling, the old saying by George Fuechsel regarding data quality ‘Garbage in, garbage out’ holds more truth than ever. Data Scientists are learning the quality of their models depends on the quality of data. Data used by the Global Burden of Animal Diseases (GBADs) is available to modellers around the world, and the quality of the data provided is important as it is used in modelling disease, greenhouse gas emissions, and more. These are important topics, so the data given to the modellers must be investigated and checked for internal and external inconsistencies. The goal of this paper is to investigate data provided by GBADs to find inconsistencies in the data. Data quality was analysed using a five-year trailing average comparison, the interquartile range for the yearly rates of change, and observing outliers on a normal distribution for the yearly rates of change for livestock populations over time. The normal distribution and interquartile range analysis is an internal data analysis that can find outliers that indicate possible data inconsistencies. The five-year trailing average helps identify external data inconsistencies between sources. Using purpose-built data analysis tools and performing analysis on the data shows there are inconsistencies in the data. The consequences of these findings show that researchers need to be cognisant of the data they are using and need to perform their own analysis before they use it in their models as the data can show incorrect results.
+
+Datasets carry cultural and political context at all parts of the data life cycle. Historically, Earth science data repositories have taken their guidance and policies as a combination of mandates from their funding agencies and the needs of their user communities, typically universities, agencies, and researchers. Consequently, repository practices have rarely taken into consideration the needs of other communities such as the Indigenous Peoples on whose lands data are often acquired.
+
+In recent years, a number of global efforts have worked to improve the conduct of research as well as data policy and practices by the repositories that hold and disseminate it. One of these established the CARE Principles for Indigenous Data Governance (Carroll et al. 2020), representing ‘Collective Benefit’, ‘Authority to Control’, ‘Responsibility’, and ‘Ethics”’ hosted by the Global Indigenous Data Alliance (GIDA 2023a).
+
+In order to align to the CARE Principles, repositories may need to update their policies, architecture, service offerings, and their collaboration models. The question is how? Operationalizing principles into active repositories is generally a fraught process. This paper captures perspectives and recommendations from many of the repositories that are members of the Earth Science Information Partners (ESIPFed, n.d.) in conjunction with members of the Collaboratory for Indigenous Data Governance (Collaboratory for Indigenous Data Governance n.d.) and GIDA, defines and prioritizes the set of activities Earth and Environmental repositories can take to better adhere to CARE Principles in the hopes that this will help implementation in repositories globally.
+
+A groundswell of activity has emerged on the ethical care of Indigenous data in response to Indigenous data sovereignty imperatives and the history of unethical research practices, data collection, and governance of Indigenous data. The CARE Principles for Indigenous Data Governance have been a seminal advance in guiding Indigenous data stewardship (Research Data Alliance 2019). CARE complements the FAIR Principles for Scientific Data Management and Stewardship (Carroll et al. 2021; Wilkinson et al. 2016), which have been highly effective in raising awareness of data management best practices and supporting the open data movement. The catch phrase, “Be FAIR and CARE”, has worked well as an aspirational statement that balances the FAIR (Findable, Accessible, Interoperable, Reusable) emphasis on metadata and machine-actionability with the CARE (Collective Benefit, Authority to Control, Responsibility, Ethics) focus on Indigenous data sovereignty goals. Information and data professionals, however, still have much to learn about how to put the CARE Principles into practice.
+
+To inform implementation of CARE for research data services (RDS) in libraries and repositories, the Data Services for Indigenous Scholarship and Sovereignty (DSISS) project is developing an Indigenous Data Services framework (DSISS 2024). The strong base of work underpinning the CARE principles has been instrumental in guiding RDS for Indigenous data to date (Carroll et al. 2020; Carroll et al. 2021; Carroll; et al. 2022; Carroll, Rodriguez-Lonebear & Martinez 2019). Much of the discourse relevant to professional RDS has emerged from scientific and health domains where data sharing and open research are often an underlying objective, and the FAIR Principles serve as an increasingly normative guide to practice. DSISS is focusing on RDS for scholars of Indigenous culture and language, contributing to understanding of stewardship for a broader range of Indigenous research data. The domain is particularly challenging since it requires RDS professionals to develop new expertise on Indigenous qualitative research methods and the data sensitivities related to Indigenous experiences and ways of knowing. It also brings into relief the needs of scholars and Indigenous communities that prioritize contextual description, preservation, and governance over data sharing or open research.
+
+Based at the Information School at the University of Washington (UW), DSISS is led by two Indigenous researchers (Zuni/Tlingit and Navajo/Eastern Shoshone) who specialize in Indigenous knowledge, culture, and libraries and two settler researchers who specialize in qualitative data curation and repository services. Key collaborators include researchers and curators from the Qualitative Data Repository (QDR), professionals in data services librarianship from UW Libraries, and Indigenous scholars from the UW American Indian Studies department. We are consulting scholars with the Local Contexts initiative and building on their extensive experience collaborating with Indigenous communities to manage intellectual property for digital cultural heritage (Anderson & Christen 2013), to explore application of their TK (Traditional Knowledge) and Collections Care notices to digital qualitative Indigenous research data (Local Contexts 2023). Indigenous librarians from the X̱wi7x̱wa Library at the University of British Columbia have been active contributors, drawing on their Indigitization initiative, an exemplar partnership with First Nations communities to co-create resources for digitization and management of digital heritage (University of British Columbia 2022), including an Indigenous-led, locally developed taxonomy and classification system (Doyle, Lawson & Dupont 2015).
+
+Clustering is a fundamental technique in data mining and machine learning, aiming to group data elements into related clusters. However, traditional clustering algorithms, such as K-means, suffer from limitations such as the need for user-defined parameters and sensitivity to initial conditions.
+
+This paper introduces a novel clustering algorithm called Black Hole Clustering (BHC), which leverages the concept of gravity to identify clusters. Inspired by the behavior of masses in the physical world, gravity-based clustering treats data points as mass points that attract each other based on distance. This approach enables the detection of high-density clusters of arbitrary shapes and sizes without the need for predefined parameters. We extensively evaluate BHC on synthetic and real-world datasets, demonstrating its effectiveness in handling complex data structures and varying point densities. Notably, BHC excels in accurate prediction of the number of clusters and achieves competitive clustering accuracy rates. Moreover, its parameter-free nature enhances clustering accuracy, robustness, and scalability. These findings represent a significant contribution to advanced clustering techniques and pave the way for further research and application of gravity-based clustering in diverse fields. BHC offers a promising approach to addressing clustering challenges in complex datasets, opening up new possibilities for improved data analysis and pattern discovery.
+
+Data citation promotes accessibility and discoverability of data through measures carried out by researchers, publishers, repositories, and the scientific community. This paper examines how a data citation workflow has been implemented by the U.S. Geological Survey (USGS) by evaluating publication and data linkages. Two different methods were used to identify data citations: examining publication structural metadata and examining the full text of the publication. A growing number of USGS researchers are complying with publisher data sharing policies aimed to capture data citation information in a standardized way within associated publications. However, inconsistencies in how data citation information is documented in publications has limited the accessibility and discoverability of the data. This paper demonstrates how organizational evaluations of publication and data linkages can be used to identify obstacles in advancing data citation efforts and improve data citation workflows.
+
+Machine learning (ML) and advanced computational methods are powerful tools for processing and deriving value from large data volumes. These methods are being developed and deployed rapidly, but best practices are still evolving regarding code and data standards, leading to irreproducibility of ML-enabled research. In this Practice Paper, we describe our efforts to make a ML-enabled research project to create a global inventory of biodata resources open and reproducible. To contribute to community conversations on evolving norms and expectations, we present our experiences as a practical, real-world case study that includes the implementation details as well as our overall approach and subsequent decisions. Our goal in openly sharing this experience is to provide a concrete example that others may consider as they look to vet, adapt, and adopt similar strategies to make their own work open and reproducible.
+
+In order to develop a discipline-specific data management plan (DMP) template, it is important to obtain information from researchers. For a chemistry-specific template, NFDI4Chem conducted a series of interviews with 27 participants and used data from the RDA WG Discipline-specific Guidance for DMP online survey.
+
+The interviews showed that the implementation of research data management in everyday work is a big challenge. Key findings from the interview series highlight challenges in implementing FAIR principles, with a focus on “Findability” and “Reusability.” The importance of linking physical samples and data in chemistry is emphasised, with discussions on storage, archiving, and the use of tools like electronic lab notebooks and repositories. However, documentation methods, software tools, and naming conventions commonly used in chemical research are also addressed. Overall, the study underscores the need for improved resources and strategies to enhance data management practices in the field of chemistry.
+
+All the gathered information and examples will be used to develop a DMP template in line with chemistry-specific requirements. The results provide a comprehensive outlook on the future developments of research data management (RDM) in chemistry.
+
+Effective research data management is a crucial aspect of good research practice, as it promotes transparency in research, traceability of research findings, and efficient resource utilization, for example when making use of public funds for data collection. Data management plans play a key role in structuring data management processes and guiding researchers. Therefore, templates for data management plans must fit the needs of different research disciplines while enabling inter-disciplinary comparability and interoperability of data management. Workflows in research would benefit from systematically integrating tools for data management planning, as they can serve as an additional component besides project management software, electronic lab notebooks, metadata tools, and so on.
+
+The Special Collection Data Management Planning across Disciplines and Infrastructures of the Data Science Journal consists of papers describing practical experiences, concepts, and future directions on the design and deployment of effective data management plans and associated tools. Papers contain practical examples on managing and sharing data, consider the integration of data management plans into infrastructures and reflect innovative research into new directions for disciplinary and cross-disciplinary data management planning.
+
+Regarding data management across disciplines, some of the papers contribute to interoperability and cross-disciplinary (re-)usability of data management plans. Such papers, for example, examine and compare different templates across disciplines, or identify approaches to shape the future of cross-disciplinary data management planning. Further papers present different approaches to improve guidance for data management that are tailored to a specific research discipline, for example, to facilitate researchers managing clinical data or to simulate research data management approaches in Earth science.

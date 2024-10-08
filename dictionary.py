@@ -18,7 +18,7 @@ nltk.download('stopwords')
 wiki = wikipediaapi.Wikipedia(
     language='en',
     extract_format=wikipediaapi.ExtractFormat.WIKI,
-    user_agent='EngStyleBot/1.0 (your.email@example.com)'  # Замініть на ваші дані
+    user_agent='EngStyleBot/1.0 (your.email@example.com)'
 )
 
 # Словники для кожного стилю
