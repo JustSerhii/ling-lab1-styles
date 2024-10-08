@@ -1,1 +1,1 @@
-# ling-lab1-styles
+# Determining the style of English texts.
